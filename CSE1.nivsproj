@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="System definition.xsd">
 	<MD5Checksum />
-	<Version Major="2012" Minor="0" Fix="0" Build="1" />
+	<Version Major="2015" Minor="0" Fix="0" Build="0" />
 	<Content>Definition</Content>
 	<Root Name="CSE1" TypeGUID="d9313aae-3554-45e5-93f3-86454275d4f2">
 		<Description />
@@ -16,7 +16,7 @@
 				<String />
 			</Property>
 			<Property Name="Creation Date">
-				<Double>3507726490.5948181</Double>
+				<Double>3581999436.8733735</Double>
 			</Property>
 		</Properties>
 		<Errors />
@@ -32,32 +32,32 @@
 							<Version />
 							<RTDestination />
 							<SupportedTarget />
-							<MD5>46f3b03258b72c6937f8152a6568f5da</MD5>
+							<MD5>7f8cd909219e58957ba4ab25940cdbbe</MD5>
 						</DependentFile>
 					</Property>
 				</Properties>
 				<Errors />
 			</Section>
 		</Section>
-		<Section Name="Workspace" TypeGUID="bc98486f-7b49-4949-9504-949cbe254c85">
+		<Section Name="User Interface" TypeGUID="bc98486f-7b49-4949-9504-949cbe254c85">
 			<Description />
 			<Properties>
 				<Property Name="User Accounts">
 					<Variant>
 						<Type>AAAACgAUQDD/////C2RhdGEgc3RyaW5n</Type>
-						<Data>AAAAzxQAgAAAAAAFAA5AMP////8ETmFtZQAAEkAw/////whQYXNzd29yZAAADkAw/////wVHcm91cABMAPEAAAAAAAAAAhhTZWMgQWRtaW5pc3RyYXRpb24ubHZsaWIMVXNlclR5cGUuY3RsAB5AUAADAAAAAQACDFVzZXIgQWNjb3VudAAAGkBAAAH/////AAMNVXNlciBBY2NvdW50cwABAAQAAAABAAAADUFkbWluaXN0cmF0b3IAAAAAAAAADkFkbWluaXN0cmF0aW9uAAAAAA==</Data>
+						<Data>AAAAzxcAgAAAAAAFAA5AMP////8ETmFtZQAAEkAw/////whQYXNzd29yZAAADkAw/////wVHcm91cABMAPEAAAAAAAAAAhhTZWMgQWRtaW5pc3RyYXRpb24ubHZsaWIMVXNlclR5cGUuY3RsAB5AUAADAAAAAQACDFVzZXIgQWNjb3VudAAAGkBAAAH/////AAMNVXNlciBBY2NvdW50cwABAAQAAAABAAAADUFkbWluaXN0cmF0b3IAAAAAAAAADkFkbWluaXN0cmF0aW9uAAAAAA==</Data>
 					</Variant>
 				</Property>
 				<Property Name="Group Accounts">
 					<Variant>
 						<Type>AAAACgAUQDD/////C2RhdGEgc3RyaW5n</Type>
-						<Data>AAAA7RQAgAAAAAAFAA5AMP////8ETmFtZQAADEAhB0Jvb2xlYW4AGEBAAAH/////AAELUGVybWlzc2lvbnMASwDxAAAAAAAAAAIYU2VjIEFkbWluaXN0cmF0aW9uLmx2bGliDUdyb3VwVHlwZS5jdGwAHEBQAAIAAAACDUdyb3VwIEFjY291bnQAHEBAAAH/////AAMOR3JvdXAgQWNjb3VudHMAAAEABAAAAAIAAAAOQWRtaW5pc3RyYXRpb24AAAANAQEBAQEBAQEBAQEBAQAAAAhPcGVyYXRvcgAAAA0BAAAAAQABAQAAAAAAAAAAAA==</Data>
+						<Data>AAAA7RcAgAAAAAAFAA5AMP////8ETmFtZQAADEAhB0Jvb2xlYW4AGEBAAAH/////AAELUGVybWlzc2lvbnMASwDxAAAAAAAAAAIYU2VjIEFkbWluaXN0cmF0aW9uLmx2bGliDUdyb3VwVHlwZS5jdGwAHEBQAAIAAAACDUdyb3VwIEFjY291bnQAHEBAAAH/////AAMOR3JvdXAgQWNjb3VudHMAAAEABAAAAAIAAAAOQWRtaW5pc3RyYXRpb24AAAANAQEBAQEBAQEBAQEBAQAAAAhPcGVyYXRvcgAAAA0BAAAAAQABAQAAAAAAAAAAAA==</Data>
 					</Variant>
 				</Property>
 				<Property Name="Tools Menu Items">
 					<Variant>
 						<Type>AAAACgAUQDD/////C2RhdGEgc3RyaW5n</Type>
-						<Data>AAAGlRQAgAAAAAAIAA5AMP////8ETmFtZQAAEkAw/////whGdW5jdGlvbgAAYQDxAAAAAAAAAAETVG9vbGJhciBCdXR0b25zLmN0bABFQBYAAwROb25lF1N0aW11bHVzIFByb2ZpbGUgRWRpdG9yC0RhdGEgVmlld2VyAAAOVG9vbGJhciBCdXR0b24AAVMA8QAAAAAAAAABH2VudW1fVXNlciBBZG1pbiBQZXJtaXNzaW9ucy5jdGwBK0AWAA0HRGVmYXVsdA5BZG1pbmlzdHJhdGlvbhdDaGFubmVsIFNjYWxpbmcgVXRpbGl0eRFBZGQgRGlzcGxheSBJdGVtcxNDaGFuZ2UgVXNlciBQcm9maWxlI0VkaXQgU3RpbXVsdXMgUHJvZmlsZSBFZGl0b3IgSGVhZGVyGkVkaXQgRGlzcGxheSBJdGVtIFNldHRpbmdzG01vZGVsIFBhcmFtZXRlciBDYWxpYnJhdGlvbhJSdW50aW1lIEFsYXJtIEVkaXQPRWRpdCBUb29scyBNZW51FkVkaXQgRW5naW5lIENvbXBvbmVudHMaQ29uZmlndXJlIFZpc2libGUgQ2hhbm5lbHMNRmF1bHQgTWFuYWdlcgAAClBlcm1pc3Npb24AABpAMv////8QQ3VzdG9tIFRvb2wgUGF0aAAAdwDxx+1IGQAAAAIRTklWU19TaGFyZWQubHZsaWINUGF0aCB0eXBlLmN0bABPQBYABAhBYnNvbHV0ZQhSZWxhdGl2ZQ5Ub0NvbW1vbkRvY0RpcgxUb0FwcERhdGFEaXIAFUN1c3RvbSBUb29sIFBhdGggVHlwZQBjAPEAAAAAAAAAAhpOSVZTUHJval9GaWxlbWFuYWdlci5sdmxpYhlUb29scyBNZW51IEl0ZW1zIFR5cGUuY3RsACZAUAAGAAAAAQACAAMABAAFD1Rvb2xzIE1lbnUgSXRlbQAeQEAAAf////8ABhBUb29scyBNZW51IEl0ZW1zAAABAAcAAAAQAAAADUFsYXJtIE1vbml0b3IAAAAUc3ViX0FsYXJtIE1vbml0b3IudmkAAAAIUFRIMAAAAAQAAAAAAAAAAAAXTW9kZWwgUGFyYW1ldGVyIE1hbmFnZXIAAAAaTW9kZWwgUGFyYW1ldGVyIE1hbmFnZXIudmkAAAAHUFRIMAAAAAQAAAAAAAAAAAABLQAAAAEtAAAAAVBUSDAAAAAEAAAAAAAAAAAAF1N0aW11bHVzIFByb2ZpbGUgRWRpdG9yAAAAHlN0aW11bHVzIFByb2ZpbGUgRWRpdG9yIERpYWxvZwABAAFQVEgwAAAABAAAAAAAAAAAAAEtAAAAAS0AAAABUFRIMAAAAAQAAAAAAAAAAAATQ2hhbm5lbCBDYWxpYnJhdGlvbgAAABJDYWxpYnJhdGlvblRvb2wudmkAAAACUFRIMAAAAAQAAAAAAAAAAAAVQ2hhbm5lbCBGYXVsdCBNYW5hZ2VyAAAAFHNjcl9GYXVsdCBNYW5hZ2VyLnZpAAAADFBUSDAAAAAEAAAAAAAAAAAAAS0AAAABLQAAAAFQVEgwAAAABAAAAAAAAAAAAA5NYWNybyBSZWNvcmRlcgAAADBXb3Jrc3BhY2UgTWFjcm9cUmVjb3JkZXJQbGF5ZXJcTWFjcm8gUmVjb3JkZXIudmkAAAABUFRIMAAAAAQAAAAAAAAAAAAMTWFjcm8gUGxheWVyAAAALldvcmtzcGFjZSBNYWNyb1xSZWNvcmRlclBsYXllclxNYWNybyBQbGF5ZXIudmkAAAAAUFRIMAAAAAQAAAAAAAAAAAABLQAAAAEtAAAAAVBUSDAAAAAEAAAAAAAAAAAAEFhORVQgQnVzIE1vbml0b3IAAAAkWE5FVCBCdXMgTW9uaXRvclxYTkVUIEJ1cyBNb25pdG9yLnZpAAAAAVBUSDAAAAAEAAAAAAAAAAAAAS0AAAABLQAAAAFQVEgwAAAABAAAAAAAAAAAABNDaGFubmVsIERhdGEgVmlld2VyAAAAFkNoYW5uZWwgRGF0YSBWaWV3ZXIudmkAAAAAUFRIMAAAAAQAAAAAAAAAAAAOQ29uc29sZSBWaWV3ZXIAAAASVmlldyBSVCBDb25zb2xlLnZpAAAAAVBUSDAAAAAEAAAAAAAAAAAAEFRETVMgRmlsZSBWaWV3ZXIAAAAXc2NyX1RETVMgRGF0YSBWaWV3ZXIudmkAAgAAUFRIMAAAAAQAAAAAAAAAAAAA</Data>
+						<Data>AAAGlRcAgAAAAAAIAA5AMP////8ETmFtZQAAEkAw/////whGdW5jdGlvbgAAYQDxAAAAAAAAAAETVG9vbGJhciBCdXR0b25zLmN0bABFQBYAAwROb25lF1N0aW11bHVzIFByb2ZpbGUgRWRpdG9yC0RhdGEgVmlld2VyAAAOVG9vbGJhciBCdXR0b24AAVMA8QAAAAAAAAABH2VudW1fVXNlciBBZG1pbiBQZXJtaXNzaW9ucy5jdGwBK0AWAA0HRGVmYXVsdA5BZG1pbmlzdHJhdGlvbhdDaGFubmVsIFNjYWxpbmcgVXRpbGl0eRFBZGQgRGlzcGxheSBJdGVtcxNDaGFuZ2UgVXNlciBQcm9maWxlI0VkaXQgU3RpbXVsdXMgUHJvZmlsZSBFZGl0b3IgSGVhZGVyGkVkaXQgRGlzcGxheSBJdGVtIFNldHRpbmdzG01vZGVsIFBhcmFtZXRlciBDYWxpYnJhdGlvbhJSdW50aW1lIEFsYXJtIEVkaXQPRWRpdCBUb29scyBNZW51FkVkaXQgRW5naW5lIENvbXBvbmVudHMaQ29uZmlndXJlIFZpc2libGUgQ2hhbm5lbHMNRmF1bHQgTWFuYWdlcgAAClBlcm1pc3Npb24AABpAMv////8QQ3VzdG9tIFRvb2wgUGF0aAAAdwDxx+1IGQAAAAIRTklWU19TaGFyZWQubHZsaWINUGF0aCB0eXBlLmN0bABPQBYABAhBYnNvbHV0ZQhSZWxhdGl2ZQ5Ub0NvbW1vbkRvY0RpcgxUb0FwcERhdGFEaXIAFUN1c3RvbSBUb29sIFBhdGggVHlwZQBjAPEAAAAAAAAAAhpOSVZTUHJval9GaWxlbWFuYWdlci5sdmxpYhlUb29scyBNZW51IEl0ZW1zIFR5cGUuY3RsACZAUAAGAAAAAQACAAMABAAFD1Rvb2xzIE1lbnUgSXRlbQAeQEAAAf////8ABhBUb29scyBNZW51IEl0ZW1zAAABAAcAAAAQAAAADUFsYXJtIE1vbml0b3IAAAAUc3ViX0FsYXJtIE1vbml0b3IudmkAAAAIUFRIMAAAAAQAAAAAAAAAAAAXTW9kZWwgUGFyYW1ldGVyIE1hbmFnZXIAAAAaTW9kZWwgUGFyYW1ldGVyIE1hbmFnZXIudmkAAAAHUFRIMAAAAAQAAAAAAAAAAAABLQAAAAEtAAAAAVBUSDAAAAAEAAAAAAAAAAAAF1N0aW11bHVzIFByb2ZpbGUgRWRpdG9yAAAAHlN0aW11bHVzIFByb2ZpbGUgRWRpdG9yIERpYWxvZwABAAFQVEgwAAAABAAAAAAAAAAAAAEtAAAAAS0AAAABUFRIMAAAAAQAAAAAAAAAAAATQ2hhbm5lbCBDYWxpYnJhdGlvbgAAABJDYWxpYnJhdGlvblRvb2wudmkAAAACUFRIMAAAAAQAAAAAAAAAAAAVQ2hhbm5lbCBGYXVsdCBNYW5hZ2VyAAAAFHNjcl9GYXVsdCBNYW5hZ2VyLnZpAAAADFBUSDAAAAAEAAAAAAAAAAAAAS0AAAABLQAAAAFQVEgwAAAABAAAAAAAAAAAAA5NYWNybyBSZWNvcmRlcgAAADBXb3Jrc3BhY2UgTWFjcm9cUmVjb3JkZXJQbGF5ZXJcTWFjcm8gUmVjb3JkZXIudmkAAAABUFRIMAAAAAQAAAAAAAAAAAAMTWFjcm8gUGxheWVyAAAALldvcmtzcGFjZSBNYWNyb1xSZWNvcmRlclBsYXllclxNYWNybyBQbGF5ZXIudmkAAAAAUFRIMAAAAAQAAAAAAAAAAAABLQAAAAEtAAAAAVBUSDAAAAAEAAAAAAAAAAAAEFhORVQgQnVzIE1vbml0b3IAAAAkWE5FVCBCdXMgTW9uaXRvclxYTkVUIEJ1cyBNb25pdG9yLnZpAAAAAVBUSDAAAAAEAAAAAAAAAAAAAS0AAAABLQAAAAFQVEgwAAAABAAAAAAAAAAAABNDaGFubmVsIERhdGEgVmlld2VyAAAAFkNoYW5uZWwgRGF0YSBWaWV3ZXIudmkAAAAAUFRIMAAAAAQAAAAAAAAAAAAOQ29uc29sZSBWaWV3ZXIAAAASVmlldyBSVCBDb25zb2xlLnZpAAAAAVBUSDAAAAAEAAAAAAAAAAAAEFRETVMgRmlsZSBWaWV3ZXIAAAAXc2NyX1RETVMgRGF0YSBWaWV3ZXIudmkAAgAAUFRIMAAAAAQAAAAAAAAAAAAA</Data>
 					</Variant>
 				</Property>
 			</Properties>
@@ -70,7 +70,7 @@
 							<Version />
 							<RTDestination />
 							<SupportedTarget />
-							<MD5>693786bd6ce7d55a62a229ccac26bcab</MD5>
+							<MD5>55e03a5a939590053e679dde19b3cda4</MD5>
 						</DependentFile>
 					</Property>
 				</Properties>
@@ -178,11 +178,83 @@
 			<Description />
 			<Properties />
 			<Errors />
+			<Section Name="CSE1.nivssdf" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
+				<Description />
+				<Properties>
+					<Property Name="Path">
+						<String>C:\Users\MCLab\Desktop\CSE1\CSE1.nivssdf</String>
+					</Property>
+				</Properties>
+				<Errors />
+			</Section>
+			<Section Name="CSE1.nivsscreen" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
+				<Description />
+				<Properties>
+					<Property Name="Path">
+						<String>C:\Users\MCLab\Desktop\CSE1\CSE1.nivsscreen</String>
+					</Property>
+				</Properties>
+				<Errors />
+			</Section>
+			<Section Name="CSE1.nivscf" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
+				<Description />
+				<Properties>
+					<Property Name="Path">
+						<String>C:\Users\MCLab\Desktop\CSE1\CSE1.nivscf</String>
+					</Property>
+				</Properties>
+				<Errors />
+			</Section>
+			<Section Name="ctrl_sixaxis2thruster.out" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
+				<Description />
+				<Properties>
+					<Property Name="Path">
+						<String>C:\Users\MCLab\Desktop\CSE1\Simulink system\ctrl_sixaxis2thruster_niVeriStand_VxWorks_rtw\ctrl_sixaxis2thruster.out</String>
+					</Property>
+				</Properties>
+				<Errors />
+			</Section>
+			<Section Name="u2pwm.out" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
+				<Description />
+				<Properties>
+					<Property Name="Path">
+						<String>C:\Users\MCLab\Desktop\CSE1\Simulink system\u2pwm_niVeriStand_VxWorks_rtw\u2pwm.out</String>
+					</Property>
+				</Properties>
+				<Errors />
+			</Section>
+			<Section Name="ctrl_custom.out" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
+				<Description />
+				<Properties>
+					<Property Name="Path">
+						<String>C:\Users\MCLab\Desktop\CSE1\Simulink system\ctrl_custom_niVeriStand_VxWorks_rtw\ctrl_custom.out</String>
+					</Property>
+				</Properties>
+				<Errors />
+			</Section>
+			<Section Name="ctrl_DP.out" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
+				<Description />
+				<Properties>
+					<Property Name="Path">
+						<String>C:\Users\MCLab\Desktop\CSE1\Simulink system\ctrl_DP_niVeriStand_VxWorks_rtw\ctrl_DP.out</String>
+					</Property>
+				</Properties>
+				<Errors />
+			</Section>
+			<Section Name="cRIO-9113 CSEI Custom Personality.lvbitx" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
+				<Description />
+				<Properties>
+					<Property Name="Path">
+						<String>C:\Users\Public\Documents\National Instruments\NI VeriStand 2017\FPGA\cRIO-9113 CSEI Custom Personality.lvbitx</String>
+					</Property>
+				</Properties>
+				<Errors />
+			</Section>
 			<Section Name="WL Joystick Engine - VxWorks.llb" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
 				<Description />
 				<Properties>
 					<Property Name="Path">
-						<String>C:\Users\Public\Documents\National Instruments\NI VeriStand 2014\Custom Devices\WL_Joystick\WL Joystick Engine - VxWorks.llb</String>
+						<String>C:\Users\Public\Documents\National Instruments\NI VeriStand 2017\Custom Devices\WL_Joystick\WL Joystick Engine - VxWorks.llb</String>
 					</Property>
 				</Properties>
 				<Errors />
@@ -191,124 +263,7 @@
 				<Description />
 				<Properties>
 					<Property Name="Path">
-						<String>C:\Users\Public\Documents\National Instruments\NI VeriStand 2014\Custom Devices\Oqus\Oqus Engine - VxWorks.llb</String>
-					</Property>
-				</Properties>
-				<Errors />
-			</Section>
-			<Section Name="CSE1.nivssdf (1)" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
-				<Description />
-				<Properties>
-					<Property Name="Path">
-						<String>C:\CS_EnterpriseI_cRIO\CSE1.nivssdf</String>
-					</Property>
-				</Properties>
-				<Errors />
-			</Section>
-			<Section Name="CSE1.nivsscreen (1)" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
-				<Description />
-				<Properties>
-					<Property Name="Path">
-						<String>C:\CS_EnterpriseI_cRIO\CSE1.nivsscreen</String>
-					</Property>
-				</Properties>
-				<Errors />
-			</Section>
-			<Section Name="CSE1.nivscf (1)" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
-				<Description />
-				<Properties>
-					<Property Name="Path">
-						<String>C:\CS_EnterpriseI_cRIO\CSE1.nivscf</String>
-					</Property>
-				</Properties>
-				<Errors />
-			</Section>
-			<Section Name="cRIO-9113 Custom Personality.fpgaconfig (1)" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
-				<Description />
-				<Properties>
-					<Property Name="Path">
-						<String>C:\CS_EnterpriseI_cRIO\FPGA IO\cRIO-9113 Custom Personality.fpgaconfig</String>
-					</Property>
-				</Properties>
-				<Errors />
-			</Section>
-			<Section Name="QTM2SI.out (1)" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
-				<Description />
-				<Properties>
-					<Property Name="Path">
-						<String>C:\CS_EnterpriseI_cRIO\simulink source\QTM2SI_niVeriStand_VxWorks_rtw\QTM2SI.out</String>
-					</Property>
-				</Properties>
-				<Errors />
-			</Section>
-			<Section Name="ctrl_sixaxis2thruster.out (1)" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
-				<Description />
-				<Properties>
-					<Property Name="Path">
-						<String>C:\CS_EnterpriseI_cRIO\simulink source\ctrl_sixaxis2thruster_niVeriStand_VxWorks_rtw\ctrl_sixaxis2thruster.out</String>
-					</Property>
-				</Properties>
-				<Errors />
-			</Section>
-			<Section Name="ctrl_sixaxis2force.out (1)" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
-				<Description />
-				<Properties>
-					<Property Name="Path">
-						<String>C:\CS_EnterpriseI_cRIO\simulink source\ctrl_sixaxis2force_niVeriStand_VxWorks_rtw\ctrl_sixaxis2force.out</String>
-					</Property>
-				</Properties>
-				<Errors />
-			</Section>
-			<Section Name="ctrl_DP_basic.out (1)" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
-				<Description />
-				<Properties>
-					<Property Name="Path">
-						<String>C:\CS_EnterpriseI_cRIO\simulink source\ctrl_DP_basic_niVeriStand_VxWorks_rtw\ctrl_DP_basic.out</String>
-					</Property>
-				</Properties>
-				<Errors />
-			</Section>
-			<Section Name="ctrl_student.out (1)" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
-				<Description />
-				<Properties>
-					<Property Name="Path">
-						<String>C:\CS_EnterpriseI_cRIO\simulink source\ctrl_student_niVeriStand_VxWorks_rtw\ctrl_student.out</String>
-					</Property>
-				</Properties>
-				<Errors />
-			</Section>
-			<Section Name="ctrl_switch.out (1)" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
-				<Description />
-				<Properties>
-					<Property Name="Path">
-						<String>C:\CS_EnterpriseI_cRIO\simulink source\ctrl_switch_niVeriStand_VxWorks_rtw\ctrl_switch.out</String>
-					</Property>
-				</Properties>
-				<Errors />
-			</Section>
-			<Section Name="measurement.out (1)" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
-				<Description />
-				<Properties>
-					<Property Name="Path">
-						<String>C:\CS_EnterpriseI_cRIO\simulink source\measurement_niVeriStand_VxWorks_rtw\measurement.out</String>
-					</Property>
-				</Properties>
-				<Errors />
-			</Section>
-			<Section Name="u2pwm.out (1)" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
-				<Description />
-				<Properties>
-					<Property Name="Path">
-						<String>C:\CS_EnterpriseI_cRIO\simulink source\u2pwm_niVeriStand_VxWorks_rtw\u2pwm.out</String>
-					</Property>
-				</Properties>
-				<Errors />
-			</Section>
-			<Section Name="mech_elec.out (1)" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
-				<Description />
-				<Properties>
-					<Property Name="Path">
-						<String>C:\CS_EnterpriseI_cRIO\simulink source\mech_elec_niVeriStand_VxWorks_rtw\mech_elec.out</String>
+						<String>C:\Users\Public\Documents\National Instruments\NI VeriStand 2017\Custom Devices\Oqus\Oqus Engine - VxWorks.llb</String>
 					</Property>
 				</Properties>
 				<Errors />
