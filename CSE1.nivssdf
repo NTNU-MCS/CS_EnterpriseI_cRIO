@@ -10,7 +10,7 @@
 				<String>CSE1</String>
 			</Property>
 			<Property Name="Version">
-				<String>1.0.0.51</String>
+				<String>1.0.0.53</String>
 			</Property>
 			<Property Name="Creator">
 				<String />
@@ -2749,6 +2749,9 @@
 											<Property Name="Index">
 												<I32>6</I32>
 											</Property>
+											<Property Name="DataSource">
+												<DataSourceNode Channel="Targets/Controller/Custom Devices/Oqus/X" />
+											</Property>
 										</Properties>
 										<Errors />
 										<DefaultValue>
@@ -2764,6 +2767,9 @@
 											<Property Name="Index">
 												<I32>7</I32>
 											</Property>
+											<Property Name="DataSource">
+												<DataSourceNode Channel="Targets/Controller/Custom Devices/Oqus/Y" />
+											</Property>
 										</Properties>
 										<Errors />
 										<DefaultValue>
@@ -2778,6 +2784,9 @@
 											</Property>
 											<Property Name="Index">
 												<I32>8</I32>
+											</Property>
+											<Property Name="DataSource">
+												<DataSourceNode Channel="Targets/Controller/Custom Devices/Oqus/Roll" />
 											</Property>
 										</Properties>
 										<Errors />
@@ -3120,9 +3129,6 @@
 													<Double>4</Double>
 												</Elem>
 											</Dictionary>
-										</Property>
-										<Property Name="DataSource">
-											<DataSourceNode Channel="Targets/Controller/Custom Devices/WL_Joystick/L1" />
 										</Property>
 									</Properties>
 									<Errors />

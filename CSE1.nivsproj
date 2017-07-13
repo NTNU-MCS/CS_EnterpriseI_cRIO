@@ -178,69 +178,6 @@
 			<Description />
 			<Properties />
 			<Errors />
-			<Section Name="CSE1.nivssdf" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
-				<Description />
-				<Properties>
-					<Property Name="Path">
-						<String>C:\Users\MCLab\Desktop\CSE1\CSE1.nivssdf</String>
-					</Property>
-				</Properties>
-				<Errors />
-			</Section>
-			<Section Name="CSE1.nivsscreen" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
-				<Description />
-				<Properties>
-					<Property Name="Path">
-						<String>C:\Users\MCLab\Desktop\CSE1\CSE1.nivsscreen</String>
-					</Property>
-				</Properties>
-				<Errors />
-			</Section>
-			<Section Name="CSE1.nivscf" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
-				<Description />
-				<Properties>
-					<Property Name="Path">
-						<String>C:\Users\MCLab\Desktop\CSE1\CSE1.nivscf</String>
-					</Property>
-				</Properties>
-				<Errors />
-			</Section>
-			<Section Name="ctrl_sixaxis2thruster.out" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
-				<Description />
-				<Properties>
-					<Property Name="Path">
-						<String>C:\Users\MCLab\Desktop\CSE1\Simulink system\ctrl_sixaxis2thruster_niVeriStand_VxWorks_rtw\ctrl_sixaxis2thruster.out</String>
-					</Property>
-				</Properties>
-				<Errors />
-			</Section>
-			<Section Name="u2pwm.out" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
-				<Description />
-				<Properties>
-					<Property Name="Path">
-						<String>C:\Users\MCLab\Desktop\CSE1\Simulink system\u2pwm_niVeriStand_VxWorks_rtw\u2pwm.out</String>
-					</Property>
-				</Properties>
-				<Errors />
-			</Section>
-			<Section Name="ctrl_custom.out" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
-				<Description />
-				<Properties>
-					<Property Name="Path">
-						<String>C:\Users\MCLab\Desktop\CSE1\Simulink system\ctrl_custom_niVeriStand_VxWorks_rtw\ctrl_custom.out</String>
-					</Property>
-				</Properties>
-				<Errors />
-			</Section>
-			<Section Name="ctrl_DP.out" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
-				<Description />
-				<Properties>
-					<Property Name="Path">
-						<String>C:\Users\MCLab\Desktop\CSE1\Simulink system\ctrl_DP_niVeriStand_VxWorks_rtw\ctrl_DP.out</String>
-					</Property>
-				</Properties>
-				<Errors />
-			</Section>
 			<Section Name="cRIO-9113 CSEI Custom Personality.lvbitx" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
 				<Description />
 				<Properties>
@@ -264,6 +201,69 @@
 				<Properties>
 					<Property Name="Path">
 						<String>C:\Users\Public\Documents\National Instruments\NI VeriStand 2017\Custom Devices\Oqus\Oqus Engine - VxWorks.llb</String>
+					</Property>
+				</Properties>
+				<Errors />
+			</Section>
+			<Section Name="CSE1.nivssdf (1)" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
+				<Description />
+				<Properties>
+					<Property Name="Path">
+						<String>C:\Users\MCLab\Documents\GitHub\CS_EnterpriseI_cRIO\CSE1.nivssdf</String>
+					</Property>
+				</Properties>
+				<Errors />
+			</Section>
+			<Section Name="CSE1.nivsscreen (1)" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
+				<Description />
+				<Properties>
+					<Property Name="Path">
+						<String>C:\Users\MCLab\Documents\GitHub\CS_EnterpriseI_cRIO\CSE1.nivsscreen</String>
+					</Property>
+				</Properties>
+				<Errors />
+			</Section>
+			<Section Name="CSE1.nivscf (1)" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
+				<Description />
+				<Properties>
+					<Property Name="Path">
+						<String>C:\Users\MCLab\Documents\GitHub\CS_EnterpriseI_cRIO\CSE1.nivscf</String>
+					</Property>
+				</Properties>
+				<Errors />
+			</Section>
+			<Section Name="ctrl_sixaxis2thruster.out (1)" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
+				<Description />
+				<Properties>
+					<Property Name="Path">
+						<String>C:\Users\MCLab\Documents\GitHub\CS_EnterpriseI_cRIO\Simulink system\ctrl_sixaxis2thruster_niVeriStand_VxWorks_rtw\ctrl_sixaxis2thruster.out</String>
+					</Property>
+				</Properties>
+				<Errors />
+			</Section>
+			<Section Name="u2pwm.out (1)" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
+				<Description />
+				<Properties>
+					<Property Name="Path">
+						<String>C:\Users\MCLab\Documents\GitHub\CS_EnterpriseI_cRIO\Simulink system\u2pwm_niVeriStand_VxWorks_rtw\u2pwm.out</String>
+					</Property>
+				</Properties>
+				<Errors />
+			</Section>
+			<Section Name="ctrl_custom.out (1)" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
+				<Description />
+				<Properties>
+					<Property Name="Path">
+						<String>C:\Users\MCLab\Documents\GitHub\CS_EnterpriseI_cRIO\Simulink system\ctrl_custom_niVeriStand_VxWorks_rtw\ctrl_custom.out</String>
+					</Property>
+				</Properties>
+				<Errors />
+			</Section>
+			<Section Name="ctrl_DP.out (1)" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
+				<Description />
+				<Properties>
+					<Property Name="Path">
+						<String>C:\Users\MCLab\Documents\GitHub\CS_EnterpriseI_cRIO\Simulink system\ctrl_DP_niVeriStand_VxWorks_rtw\ctrl_DP.out</String>
 					</Property>
 				</Properties>
 				<Errors />
